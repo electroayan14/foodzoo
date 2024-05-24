@@ -1,0 +1,9 @@
+const String homeRoute = '/splash_screen';
+const String introduction = '/introduction';
+const String login = '/login_screen';
+const String otpScreen = '/otp_screen';
+const String locationScreen = '/location_screen';
+const String dashboardScreen = '/dashboard_screen';
+const String products = '/ProductScreen';
+const String cart = '/CartScreen';
+const String meals = '/MealsScreen';
